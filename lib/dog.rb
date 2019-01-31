@@ -4,5 +4,3 @@ def Dog
   snoopy = Dog.new
   lassie = Dog.new
 end
-
-
